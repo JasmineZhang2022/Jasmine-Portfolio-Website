@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "Beijing may be more widely known for its ancient architectural achievements such as the Great Wall or the Temple of Heaven but modern architecture is as much a defining feature of the skyline of today’s Beijing. In many places, you can see modern and ancient buildings co-exist and form a beautiful scenery."
 draft: false
-image: pic10.jpg
+image: Beijing.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: beijing123
+title: Beijing
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Beijing may be more widely known for its ancient architectural achievements such as the Great Wall or the Temple of Heaven but modern architecture is as much a defining feature of the skyline of today’s Beijing. In many places, you can see modern and ancient buildings co-exist and form a beautiful scenery.

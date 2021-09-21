@@ -8,8 +8,9 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic07.jpg
+image: about_me.jpeg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: about_me
+title: About Me
 ---
+I’m Jasmine, a master candidate at the London Business School specializing in Analytics and Management. I completed my bachelor’s degree at the University of Southern California, majoring in Econ and Math. 
