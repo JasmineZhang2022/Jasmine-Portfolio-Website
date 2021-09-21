@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "jasminez.netlify.app/"
 languageCode: en-us
 title: Portfolio website for Jasmine Zhang
 theme: forty
@@ -115,3 +115,8 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+    
+    markup:
+  goldmark:
+    renderer:
+      unsafe: true
