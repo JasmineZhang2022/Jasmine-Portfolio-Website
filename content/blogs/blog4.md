@@ -10,7 +10,7 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: about_me.jpeg
 keywords: ""
-slug: about_me
+slug: about_me123
 title: About Me
 ---
 I’m Jasmine, a master candidate at the London Business School specializing in Analytics and Management. I completed my bachelor’s degree at the University of Southern California, majoring in Econ and Math. 
